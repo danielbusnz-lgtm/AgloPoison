@@ -1,5 +1,3 @@
-# YeetTheFeed
-
 Browser extensions that scrambles your algorithim.
 
 ## Platforms
