@@ -1,4 +1,4 @@
-Browser extensions that scrambles your algorithim.
+Browser extension that scrambles your algorithim.
 
 ## Platforms
 
