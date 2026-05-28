@@ -1,0 +1,16 @@
+/* YeetTheFeed styles */
+
+#yeeted-feed {
+  font-family: 'YouTube Sans', 'Roboto', sans-serif;
+  color: var(--yt-spec-text-primary);
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#yeeted-feed h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}

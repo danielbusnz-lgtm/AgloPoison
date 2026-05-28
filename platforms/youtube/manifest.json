@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "YeetTheFeed - YouTube",
+  "version": "0.1.0",
+  "description": "Yeet YouTube's algorithm into the void",
+  "permissions": [],
+  "host_permissions": [
+    "*://*.youtube.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}
