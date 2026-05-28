@@ -1,6 +1,6 @@
 # YeetTheFeed
 
-Browser extensions that yeet social media algorithms into the void.
+Browser extensions that scrambles your algorithim.
 
 ## Platforms
 
